@@ -1,6 +1,8 @@
 # ECE482 p1
 
 A shell written in C.
+A full version of this repo is [here](https://focs.ji.sjtu.edu.cn/git/ece482-23fa/TingxiLi520021911041-p1)
+The track of development lacks in this repo.
 
 ## Author
 
