@@ -1,0 +1,19 @@
+################################
+## White list based gitignore ##
+################################
+
+# forbidden
+*
+.*
+
+# allowed
+!.gitignore
+!.gitattributes
+!.drone.yml
+!src/
+!Makefile
+!CMakeLists.txt
+!*.c
+!*.md
+!*.h
+!*.sh
